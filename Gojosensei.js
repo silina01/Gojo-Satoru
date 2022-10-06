@@ -3439,9 +3439,9 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             jpegThumbnail: fs.readFileSync('./GojoMedia/gojo.jpg')}, 
                             hydratedFooterText: `
 ┌─❖
-│「 Hi 👋 」
+│「 I'm Alive 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Daijobka sempai?😄
+┌┤✑  Wach a lhbiba!😂
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
@@ -3453,7 +3453,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 │✙ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
 │✙ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ${Object.keys(global.db.data.users).length}
 └┬──────────────┈ ⳹
-   │✑  Please Select The Button Below
+   │✑  Labghiti Listmenu Wrrk eliha
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
                                 urlButton: {
